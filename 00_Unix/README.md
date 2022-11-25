@@ -58,4 +58,20 @@
 <img src = "q5.png" ></img>
 
 <hr>
+<hr>
 
+<h2> II.Exercises with sed</h2>
+
+<p><b> QUESTION1:</b> Count word initial consonant sequences: tokenise by word, delete the vowel and the rest of the word, and count</p>
+
+``` sed 's/[aeiouAEIOU][A-Za-z]*//g' < wiki.words > initial-consonents.hist```
+
+<p><b> QUESTION2:</b> Count word final consonant sequences </p>
+
+``` sed 's/[aeiouAEIOU][A-Za-z]*//g' < wiki.words | sort -r | uniq -c > final-consonents.hist```
+
+<p><b>Output - </b></p>
+
+<img src = "q6.png" ></img>
+
+<hr>
