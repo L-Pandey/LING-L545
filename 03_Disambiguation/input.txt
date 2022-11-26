@@ -1,0 +1,131 @@
+"<India>"
+	"India" PROPN Number=Sing
+"<was>"
+	"be" AUX Mood=Ind Number=Sing Person=3 Tense=Past VerbForm=Fin
+	"be" VERB Mood=Ind Number=Sing Person=3 Tense=Past VerbForm=Fin
+	"be" AUX Mood=Ind Number=Sing Tense=Past VerbForm=Fin
+	"be" AUX Mood=Ind Number=Sing Person=1 Tense=Past VerbForm=Fin
+	"be" VERB Mood=Ind Number=Sing Person=1 Tense=Past VerbForm=Fin
+"<colonized>"
+	"*colonized"
+"<in>"
+	"in" ADP 
+	"in" ADV 
+	"in" SCONJ 
+	"in" PROPN Number=Sing
+	"in" NOUN Number=Sing
+	"in" ADJ Degree=Pos
+	"be" AUX Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin
+	"into" ADP Typo=Yes
+	"_" X 
+	"indeed" ADV Typo=Yes
+"<the>"
+	"the" DET Definite=Def PronType=Art
+	"they" PRON Case=Nom Number=Plur Person=3 PronType=Prs Typo=Yes
+	"that" PRON PronType=Rel Typo=Yes
+	"than" ADP Typo=Yes
+	"to" PART Typo=Yes
+	"to" ADP Typo=Yes
+"<late>"
+	"late" ADJ Degree=Pos
+	"late" ADV Degree=Pos
+"<19th>"
+	"19th" NOUN Number=Sing NumType=Ord
+	"19th" ADJ Degree=Pos NumType=Ord
+"<century>"
+	"century" NOUN Number=Sing
+"<when>"
+	"when" ADV PronType=Int
+	"when" ADV PronType=Rel
+	"whenever" ADV PronType=Int Typo=Yes
+"<the>"
+	"the" DET Definite=Def PronType=Art
+	"they" PRON Case=Nom Number=Plur Person=3 PronType=Prs Typo=Yes
+	"that" PRON PronType=Rel Typo=Yes
+	"than" ADP Typo=Yes
+	"to" PART Typo=Yes
+	"to" ADP Typo=Yes
+"<Britishers>"
+	"*Britishers"
+"<invaded>"
+	"invade" VERB Mood=Ind Number=Sing Person=3 Tense=Past VerbForm=Fin
+"<India>"
+	"India" PROPN Number=Sing
+"<by>"
+	"by" ADP 
+	"by" SCONJ 
+	"by" ADV 
+	"be" AUX Typo=Yes VerbForm=Inf
+"<land>"
+	"land" NOUN Number=Sing
+	"land" VERB Mood=Ind Number=Sing Person=2 Tense=Pres VerbForm=Fin
+	"land" VERB VerbForm=Inf
+	"land" VERB Mood=Ind Number=Plur Person=3 Tense=Pres VerbForm=Fin
+"<and>"
+	"and" CCONJ 
+	"a" DET Typo=Yes
+	"and" X 
+	"on" ADP Typo=Yes
+	"as" ADP Typo=Yes
+"<sea>"
+	"sea" NOUN Number=Sing
+"<and>"
+	"and" CCONJ 
+	"a" DET Typo=Yes
+	"and" X 
+	"on" ADP Typo=Yes
+	"as" ADP Typo=Yes
+"<decided>"
+	"decide" VERB Tense=Past VerbForm=Part
+	"decide" VERB Mood=Ind Number=Sing Person=1 Tense=Past VerbForm=Fin
+	"decide" VERB Mood=Ind Number=Sing Person=3 Tense=Past VerbForm=Fin
+	"decide" VERB Mood=Ind Number=Plur Person=3 Tense=Past VerbForm=Fin
+	"decided" NOUN Number=Sing
+	"decide" VERB Mood=Ind Number=Plur Person=1 Tense=Past VerbForm=Fin
+	"decide" VERB Tense=Past VerbForm=Part Voice=Pass
+"<to>"
+	"to" PART 
+	"to" ADP 
+	"to" SCONJ 
+	"too" ADV Typo=Yes
+	"_" X 
+	"to" NOUN Number=Sing
+	"to" VERB VerbForm=Inf
+	"the" DET Definite=Def PronType=Art Typo=Yes
+"<rule>"
+	"rule" NOUN Number=Sing
+	"rule" VERB VerbForm=Inf
+	"rule" VERB Mood=Ind Number=Plur Person=3 Tense=Pres VerbForm=Fin
+	"rule" VERB Mood=Ind Number=Sing Person=3 Tense=Pres Typo=Yes VerbForm=Fin
+"<the>"
+	"the" DET Definite=Def PronType=Art
+	"they" PRON Case=Nom Number=Plur Person=3 PronType=Prs Typo=Yes
+	"that" PRON PronType=Rel Typo=Yes
+	"than" ADP Typo=Yes
+	"to" PART Typo=Yes
+	"to" ADP Typo=Yes
+"<country>"
+	"country" NOUN Number=Sing
+"<for>"
+	"for" ADP 
+	"for" SCONJ 
+	"_" X 
+	"for" CCONJ 
+	"for" X 
+"<the>"
+	"the" DET Definite=Def PronType=Art
+	"they" PRON Case=Nom Number=Plur Person=3 PronType=Prs Typo=Yes
+	"that" PRON PronType=Rel Typo=Yes
+	"than" ADP Typo=Yes
+	"to" PART Typo=Yes
+	"to" ADP Typo=Yes
+"<next>"
+	"next" ADJ Degree=Pos
+	"next" ADV 
+	"next" ADP 
+"<100>"
+	"100" NUM NumForm=Digit NumType=Card
+"<years>"
+	"year" NOUN Number=Plur
+"<.>"
+	"." PUNCT 

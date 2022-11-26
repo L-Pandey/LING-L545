@@ -1,0 +1,22 @@
+DELIMITERS = "." ;
+
+LIST N = NOUN ;
+LIST A = ADJ ;
+LIST ad = ADV ;
+LIST V = VERB ;
+LIST sj = SCONJ ;
+LIST part = PART ;
+LIST det = DET ;
+LIST pn = PRON ;
+LIST adp = ADP ;
+
+SECTION
+
+# late 19th* century
+REMOVE N IF (0 N OR A) (-1C A OR ad) (1C N) ;
+
+# to rule* the
+REMOVE N IF (0 ("rule")) ;
+
+# the late* 19th
+REMOVE ad IF (0 A OR ad) (1C A OR ad) ;
