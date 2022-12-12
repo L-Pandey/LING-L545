@@ -13,8 +13,11 @@ How far an attention-induced neural net- work can take us to perform a kine- mat
 </p>
 
 <h2>Front End (Agent in Unity Engine)</h2>
-
-<img src="./imgs/agent.png" style="width:40px;height:20px">
+<br>
+<center>
+<img src="./imgs/agent.png" style="width:200px;height:200px">
+</center>
+<br>
 
 <p>
 Due to large file size, the zip file for the front end Unity Agent is hosted on the Google Drive. Link <a href="">here</a>
