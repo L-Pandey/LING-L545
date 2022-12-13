@@ -12,7 +12,9 @@
 
 </ol> 
 By considering the punctuation marks as separate tokens, we are also able to reduce the complexity of word.
-Therefore, it becomes easier for the language models to better understand the contexual meaning of the sentence.
+Therefore, it becomes easier for the language models to form word embeddings. Many models don't have the support for special characters and therefore, splitting the text and punctuation can be helpful in that case.
+
+Another example is - 'Hurray!!!'  Though it might be helpful to keep punctuation for sentiment analysis, but for a general text analysis, punctuations can cause problems. Therefore, splitting punctuation makes sure that each token is treated as a single entity with equality. 
 </p>
 <hr>
 
@@ -33,4 +35,12 @@ There are certain abbreviations in the English language such as 'U.S.A' or 'A. B
 
 <h2>Question4: Should contractions and clitics be a single token or two (or more) tokens ?</h2>
 
-</p> Contraction words are the words like "I'm" or "can't". These words can be tokenized into two by separating everything that comes before the punctuation and everything after it. It also depends upon the NLP application and should be decided based on that. </p>
+</p> Contraction words are the words like "I'm" or "can't". These words can be tokenized into two or more tokens. Some examples include -
+<ul>
+<li> token1 - I <br>token2 -  m
+<li> token1 - I' <br> token2 - m
+<li> token1 - I'm
+</ul>
+
+It strongly depends upon the type of NLP application.
+</p>
