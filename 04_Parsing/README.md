@@ -46,3 +46,15 @@
     <td><img src="./test.conlluScreenshots/44.png"></td>
  </tr>
 </table>
+
+<h2>Performance </h2>
+<img src="metrics.png">
+
+<br>
+
+<h2>Observations </h2>
+<p>
+<ul>
+<li>English language tree bank (en_atis-ud-train) was used to train and test the model.
+</ul>
+</p>
