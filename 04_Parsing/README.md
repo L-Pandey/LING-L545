@@ -25,4 +25,24 @@
     <td><img src="./TESTINGOUT.conlluScreenshots/15.png"></td>
     <td><img src="./test.conlluScreenshots/15.png"></td>
  </tr>
+  <tr>
+    <td><img src="./TESTINGOUT.conlluScreenshots/17.png"></td>
+    <td><img src="./test.conlluScreenshots/17.png"></td>
+ </tr>
+  <tr>
+    <td><img src="./TESTINGOUT.conlluScreenshots/26.png"></td>
+    <td><img src="./test.conlluScreenshots/26.png"></td>
+ </tr>
+  <tr>
+    <td><img src="./TESTINGOUT.conlluScreenshots/27.png"></td>
+    <td><img src="./test.conlluScreenshots/27.png"></td>
+ </tr>
+  <tr>
+    <td><img src="./TESTINGOUT.conlluScreenshots/38.png"></td>
+    <td><img src="./test.conlluScreenshots/38.png"></td>
+ </tr>
+  <tr>
+    <td><img src="./TESTINGOUT.conlluScreenshots/44.png"></td>
+    <td><img src="./test.conlluScreenshots/44.png"></td>
+ </tr>
 </table>
